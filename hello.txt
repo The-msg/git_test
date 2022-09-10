@@ -11,3 +11,4 @@
    -Disagreeable
    -Self-respecting
    -Physically strong  
+fix the spelling typo of the commit message 
